@@ -1,4 +1,4 @@
-# LLMSynthor
+# <img src="resources/icon.png" alt="LLMSynthor Icon" width="80" style="vertical-align: middle; margin-right: 8px;"/> LLMSynthor
 
 
 This is the **official repository** for the paper _"Large Language Models for Data Synthesis."_  

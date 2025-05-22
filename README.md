@@ -3,7 +3,7 @@
 
 This is the **official repository** for the paper _"Large Language Models for Data Synthesis."_  
 
-📚 [[ArXiv](https://arxiv.org/abs/)] • 🌐 [[Project Page](https://yihongt.github.io/llmsynthor_web/)]
+📚 [[ArXiv](https://arxiv.org/pdf/2505.14752)] • 🌐 [[Project Page](https://yihongt.github.io/llmsynthor_web/)]
 
 ---
 

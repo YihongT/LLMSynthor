@@ -26,3 +26,18 @@ Stay tuned for updates!
 ## License
 
 This project will be released under an open-source license upon publication.
+
+---
+
+
+## Reference
+
+Please cite our paper if you use the model in your own work:
+```
+@article{tang2025llmsynthor,
+    title={Large Language Models for Data Synthesis},
+    author={Tang, Yihong and Kong, Menglin and Sun, Lijun},
+    journal={arXiv preprint arXiv:2505.14752},
+    year={2025}
+}
+```

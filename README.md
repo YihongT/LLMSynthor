@@ -17,7 +17,7 @@ We evaluate LLMSynthor in both controlled and real-world settings using heteroge
 
 ## 🚧 TODO
 
-- [ ] Code release scheduled by **end of June 2025**
+- [ ] Code will be released upon acceptance, in accordance with our funding agency's code release policy.
 
 Stay tuned for updates!
 
